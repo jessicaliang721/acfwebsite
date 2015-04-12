@@ -94,6 +94,9 @@ footer {
     -o-background-size: auto;
     background-color: #defcfe;
     font-family: 'Abel', sans-serif;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    margin-bottom: 0px;
 }
 
 .center{
